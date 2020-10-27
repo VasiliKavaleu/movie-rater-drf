@@ -60,7 +60,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'config.urls'
 
 CORS_ORIGIN_WHITELIST = [
-    "http://localhost:8081", "http://localhost:8080"
+    "http://localhost:8081", "http://localhost:8080", "https://movie-rater-284c1.web.app/"
 ]
 
 
